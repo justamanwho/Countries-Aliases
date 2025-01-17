@@ -1,0 +1,2 @@
+rapidfuzz~=3.7.0
+pycountry~=24.6.1
